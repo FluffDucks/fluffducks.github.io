@@ -1,2 +1,3 @@
-# fluffducks.github.io
-Chloe's / FluffDucks' Portfolio
+# Chloe's / FluffDucks' Portfolio 
+
+Website: fluffducks.github.io
