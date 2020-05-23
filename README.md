@@ -1,3 +1,3 @@
 # Chloe's / FluffDucks' Portfolio 
 
-Website: <https://fluffducks.github.io>
+Website: <a href="fluffducks.github.io" target="_blank">fluffducks.github.io</a>
