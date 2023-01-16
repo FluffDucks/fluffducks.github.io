@@ -1464,3 +1464,7 @@ body.offcanvas {
   outline: none;
   text-decoration: none !important; 
 }
+
+.work-avatar {
+  border-radius: 50%;
+}
